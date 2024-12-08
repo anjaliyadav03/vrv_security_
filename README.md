@@ -1,4 +1,3 @@
-# vrv_security_
 
 # Log Analysis Script
 
